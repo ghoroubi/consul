@@ -1,2 +1,2 @@
 # consul
-Consul service discovery light weight library
+Consul service discovery lightweight library
